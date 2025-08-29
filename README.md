@@ -1,4 +1,5 @@
 <p align="right">
+<img src="https://img.shields.io/badge/Licence-MIT-brightgreen">
 <img src="https://shields.io/badge/python-3.12.8-green.svg?labelColor=3670A0&logo=python&logoColor=ffdd54">
 <img src="https://shields.io/badge/pyinstaller-6.15.0-green.svg?logo=python&logoColor=ffdd54">
 </p>
